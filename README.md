@@ -1,4 +1,6 @@
-NOTE: Node modules to be installed using **npm install** command
+NOTEs: 
+- Node modules to be installed using **npm install** command
+- Configure Tailwind
 
 
 # React + Vite
